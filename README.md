@@ -1,4 +1,5 @@
 # blocks99
+<<<<<<< HEAD
 
 This is an example Webflow Designer extension written in TypeScript to get you started. Check out our [documentation](https://docs.developers.webflow.com/v2.0.0/docs/create-a-designer-extensions) for in-depth information about Designer Extension features and API.
 
@@ -22,3 +23,5 @@ $ npm run build
 ```
 
 This will take the contents of the `./public` folder and prepare a `bundle.zip` file ready for you to upload as a Designer extension for your App.
+=======
+>>>>>>> ab5aa4ab9252b25e093ccff1fe25c802de1fa95f
